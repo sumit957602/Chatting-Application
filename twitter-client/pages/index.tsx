@@ -8,6 +8,8 @@ export default function Home() {
     <div>
       <div className="grid grid-cols-12 h-screen w-screen">
         <div className="col-span-3"></div>
+        <div className="col-span-6 border-r-[1px] border-l-[1px] border-gray"></div>
+        <div className="col-span-3"></div>
       </div>
     </div>
   )
